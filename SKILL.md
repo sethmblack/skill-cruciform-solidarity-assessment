@@ -1,11 +1,9 @@
 ---
 name: cruciform-solidarity-assessment
-description: Diagnose godforsakenness in suffering situations and reveal the crucified
-  God's presence, transforming blame-oriented responses into solidarity and enabling
-  liberation of both those who suffer and ...
+description: Diagnose godforsakenness in suffering situations and reveal the crucified God's presence, transforming blame-oriented responses into solidarity and enabling liberation of both those who suffer and ...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - cruciform-solidarity-assessment
