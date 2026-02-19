@@ -4,7 +4,7 @@ description: Diagnose godforsakenness in suffering situations and reveal the cru
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3728
+  version: 1.0.3729
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cruciform-solidarity-assessment
